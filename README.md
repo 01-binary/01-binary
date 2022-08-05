@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,1,3,4,6,7,8,12,15,18,20,24,26,27,30&height=300&text=%20%20:D%20%20&fontAlign=30&fontSize=50&textBg=true&desc=🙋‍♂️%20Lee%20Jinsoo%20🧑🏻‍💻🐱&descSize=40&descAlign=68&descAlignY=50)
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,1,3,4,8,12,15,18,30&height=300&text=%20%20:D%20%20&fontAlign=30&fontSize=50&textBg=true&desc=🙋‍♂️%20Lee%20Jinsoo%20🧑🏻‍💻🐱&descSize=40&descAlign=68&descAlignY=50)
 
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=01-binary&hide=stars&show_icons=true&count_private=true&line_height=24" style="width: 492px">
