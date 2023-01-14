@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,1,3,4,8,12,15,18,30&height=300&text=%20%20:D%20%20&fontAlign=30&fontSize=50&textBg=true&desc=🙋‍♂️%20Lee%20Jinsoo%20🧑🏻‍💻🐱&descSize=40&descAlign=68&descAlignY=50)
 
 <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=01-binary&hide=stars&show_icons=true&count_private=true&line_height=24" style="width: 492px">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=01-binary&layout=compact&langs_count=6">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=01-binary&hide=stars&show_icons=true&count_private=true&line_height=24" style="width: 492px">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=01-binary&layout=compact&langs_count=6">
 </p>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F01-binary&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
