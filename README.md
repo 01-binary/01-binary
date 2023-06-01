@@ -22,13 +22,6 @@
   <img src="https://img.shields.io/badge/-React%20Query-FF4154?style=flat&logo=react%20query&logoColor=white"/>
 </p>
 <p>
-  <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/>
-</p>
-<p>
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=GraphQL&logoColor=white"/>
-</p>
-<p>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=Amazonaws&logoColor=white"/>
 </p>
 
