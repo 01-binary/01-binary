@@ -28,6 +28,6 @@
 ### ME
 
 <p>
-  <a href="https://binary01.me" target="_blank"><img src="https://img.shields.io/badge/Blog-663399?style=flat&logo=Gatsby&logoColor=white"/></a>
+  <a href="https://binary01.me" target="_blank"><img src="https://img.shields.io/badge/Blog-000000?style=flat&logo=notion&logoColor=white"/></a>
     <a href="https://www.instagram.com/01_binary" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
