@@ -7,7 +7,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F01-binary&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-### Available Things
+### 🛠 Available Things
 
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=Amazonaws&logoColor=white"/>
 </p>
 
-### ME
+### 🙋‍♂️ ME
 
 <p>
   <a href="https://binary01.me" target="_blank"><img src="https://img.shields.io/badge/Blog-000000?style=flat&logo=notion&logoColor=white"/></a>
