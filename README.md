@@ -32,7 +32,7 @@
     <a href="https://www.instagram.com/01_binary" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
 
-### 📝 Latest Blog Posts
+### ✍️ Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [2023 회고.](https://binary01.me/posts/retrospect-2023)
