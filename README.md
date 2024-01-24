@@ -35,4 +35,9 @@
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [2023 회고.](https://binary01.me/posts/retrospect-2023)
+- [블로그 이미지 최적화 해보기](https://binary01.me/posts/image-optimiztion)
+- [요약과 서평 | 프레임워크 없는 프론트엔드 개발](https://binary01.me/posts/book-frameworkless)
+- [React 상태 관리 Library에 대해 &lpar;feat. Context&rpar;](https://binary01.me/posts/state-lib-dive)
+- [내가 몰랐던 CSS, HTML](https://binary01.me/posts/css-html-i-didnt-know)
 <!-- BLOG-POST-LIST:END -->
