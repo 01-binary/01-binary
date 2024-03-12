@@ -35,9 +35,9 @@
 ### ✍️ Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [웹 개발에 유용한 피그마 플러그인 알아보기](https://binary01.me/posts/figma-plugin)
 - [요약과 서평 | 우아한 타입스크립트](https://binary01.me/posts/book-elegant-ts)
 - [V8 엔진 알아보기](https://binary01.me/posts/v8-dive)
 - [2023 회고.](https://binary01.me/posts/retrospect-2023)
 - [블로그 이미지 최적화 해보기](https://binary01.me/posts/image-optimiztion)
-- [요약과 서평 | 프레임워크 없는 프론트엔드 개발](https://binary01.me/posts/book-frameworkless)
 <!-- BLOG-POST-LIST:END -->
