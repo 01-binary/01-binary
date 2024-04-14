@@ -35,9 +35,9 @@
 ### ✍️ Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [R3F로 배우는 인터렉티브 3D 웹 개발 수강 후기 &lpar;with Udemy&rpar;](https://binary01.me/posts/r3f-with-udemy)
 - [웹 개발에 유용한 피그마 플러그인 알아보기](https://binary01.me/posts/figma-plugin)
 - [요약과 서평 | 우아한 타입스크립트](https://binary01.me/posts/book-elegant-ts)
 - [V8 엔진 알아보기](https://binary01.me/posts/v8-dive)
 - [2023 회고.](https://binary01.me/posts/retrospect-2023)
-- [블로그 이미지 최적화 해보기](https://binary01.me/posts/image-optimiztion)
 <!-- BLOG-POST-LIST:END -->
