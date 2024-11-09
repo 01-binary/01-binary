@@ -35,9 +35,9 @@
 ### ✍️ Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [changeset과 github action으로 버전 관리하기](https://binary01.me/posts/changeset-github-action)
 - [웹뷰 서버사이드에서 앱 정보 받아오기](https://binary01.me/posts/webview-serverside)
 - [내가 만들어본 뒤로가기 관련 커스텀 훅](https://binary01.me/posts/custom-hook-made-by-me)
 - [요약과 서평 | 프론트엔드 성능 최적화 가이드](https://binary01.me/posts/book-front-performance)
 - [R3F로 배우는 인터렉티브 3D 웹 개발 수강 후기 &lpar;with Udemy&rpar;](https://binary01.me/posts/r3f-with-udemy)
-- [웹 개발에 유용한 피그마 플러그인 알아보기](https://binary01.me/posts/figma-plugin)
 <!-- BLOG-POST-LIST:END -->
