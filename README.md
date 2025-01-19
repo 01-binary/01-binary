@@ -35,9 +35,9 @@
 ### ✍️ Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Notion API로 블로그 만들기 &lpar;with npm&rpar; - 1](https://binary01.me/posts/notion-lib-1)
 - [2024 회고.](https://binary01.me/posts/retrospect-2024)
 - [changeset과 github action으로 버전 관리하기](https://binary01.me/posts/changeset-github-action)
 - [웹뷰 서버사이드에서 앱 정보 받아오기](https://binary01.me/posts/webview-serverside)
 - [내가 만들어본 뒤로가기 관련 커스텀 훅](https://binary01.me/posts/custom-hook-made-by-me)
-- [요약과 서평 | 프론트엔드 성능 최적화 가이드](https://binary01.me/posts/book-front-performance)
 <!-- BLOG-POST-LIST:END -->
