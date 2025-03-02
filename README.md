@@ -35,9 +35,9 @@
 ### ✍️ Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [패키지 매니저의 진화: npm, yarn, pnpm 비교](https://binary01.me/posts/package-manager-comparison)
 - [Notion API로 블로그 만들기 &lpar;with npm&rpar; - 1](https://binary01.me/posts/notion-lib-1)
 - [2024 회고.](https://binary01.me/posts/retrospect-2024)
 - [changeset과 github action으로 버전 관리하기](https://binary01.me/posts/changeset-github-action)
 - [웹뷰 서버사이드에서 앱 정보 받아오기](https://binary01.me/posts/webview-serverside)
-- [내가 만들어본 뒤로가기 관련 커스텀 훅](https://binary01.me/posts/custom-hook-made-by-me)
 <!-- BLOG-POST-LIST:END -->
