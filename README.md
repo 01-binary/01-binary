@@ -5,24 +5,6 @@
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=01-binary&layout=compact&langs_count=6">
 </p>
 
-### 🛠 Available Things
-
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F0DB4F?style=flat&logo=JavaScript&logoColor=323330"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-React%20Query-FF4154?style=flat&logo=react%20query&logoColor=white"/>
-</p>
-<p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=Amazonaws&logoColor=white"/>
-</p>
-
 ### 🙋‍♂️ ME
 
 <p>
