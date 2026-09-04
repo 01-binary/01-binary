@@ -1,7 +1,3 @@
-<p>
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=01-binary&hide=stars&show_icons=true&count_private=true&line_height=24" style="width: 492px">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=01-binary&layout=compact&langs_count=6">
-</p>
 
 ### ✍️ Posts
 
